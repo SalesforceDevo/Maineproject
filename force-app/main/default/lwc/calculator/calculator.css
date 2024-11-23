@@ -1,0 +1,15 @@
+.container {
+    padding: 20px;
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+.button-group {
+    margin: 20px 0;
+}
+
+.results {
+    margin-top: 20px;
+    font-weight: bold;
+}
